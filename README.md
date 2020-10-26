@@ -19,6 +19,13 @@ https://adoptopenjdk.net/upstream.html
 
 The binaries are created from the unmodified source code at OpenJDK.
 
+## Linux カーネル更新プログラム パッケージ
+https://docs.microsoft.com/ja-jp/windows/wsl/wsl2-kernel
+
+date|filename
+-|-
+2020/08/24|wsl_update_x64.msi
+
 ## TODO
 * 7-Zip
 * VScode
