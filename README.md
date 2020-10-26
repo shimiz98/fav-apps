@@ -4,17 +4,20 @@ My favorite apps.
 
 ## WinMerge 日本語版
 https://winmergejp.bitbucket.io/
-2.16.8+-jp-4 	2020-10-26 * pre-release
-2.16.8+-jp-2 	2020-09-29 	
-2.16.8+-jp-1 	2020-08-29 	
-2.16.6+-jp-11 	2020-07-29
+version | date | memo
+-|-|-
+2.16.8+-jp-4  | 2020-10-26 |pre-release
+2.16.8+-jp-2  | 2020-09-29 |
+2.16.8+-jp-1  |	2020-08-29 |	
+2.16.6+-jp-11 |	2020-07-29 |
 
 ## AdoptOpenJDK
 https://adoptopenjdk.net/releases.html
 
 ## OpenJDK Project Builds
-The binaries are created from the unmodified source code at OpenJDK.
 https://adoptopenjdk.net/upstream.html
+
+The binaries are created from the unmodified source code at OpenJDK.
 
 ## TODO
 * 7-Zip
