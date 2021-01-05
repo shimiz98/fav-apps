@@ -6,6 +6,7 @@ My favorite apps.
 https://winmergejp.bitbucket.io/
 version | date | memo
 -|-|-
+2.16.8+-jp-8  | 2020-11-29 |
 2.16.8+-jp-4  | 2020-10-26 |pre-release
 2.16.8+-jp-2  | 2020-09-29 |
 2.16.8+-jp-1  |	2020-08-29 |	
@@ -25,6 +26,18 @@ https://docs.microsoft.com/ja-jp/windows/wsl/wsl2-kernel
 date|filename
 -|-
 2020/08/24|wsl_update_x64.msi
+
+## ImDisk Toolkit
+https://sourceforge.net/projects/imdisk-toolkit/
+
+## Wireshark
+https://www.wireshark.org/#download
+
+## npcap
+https://nmap.org/npcap/
+
+## cwrsync
+https://www.itefix.net/cwrsync
 
 ## TODO
 * 7-Zip
